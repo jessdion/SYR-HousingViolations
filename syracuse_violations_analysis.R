@@ -1,5 +1,7 @@
-#Syracuse Code Violations Final Project IST 719
-#Author: Jessica Aimunmondion 
+# Syracuse Housing Code Violations Analysis
+# Author: Jessica Aimunmondion
+# Description: Analysis of housing code violations in Syracuse to identify trends,
+# high-risk areas, and recurring issues impacting housing conditions.
 
 code <- read_csv("~/Library/Mobile Documents/com~apple~CloudDocs/GRAD SCHOOL/Fall 2025/IST 719 | Prof. Erdogan/Final Project/Code_Violations.csv")
 
