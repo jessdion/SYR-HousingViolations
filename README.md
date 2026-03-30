@@ -112,6 +112,7 @@ This analysis provides insights that can help city officials prioritize inspecti
 ---
 
 ## Repository Structure
-- `data/` – datasets (or sample data)  
-- `analysis/` – R scripts used for analysis  
-- `visuals/` – final visualizations  
+
+- `visuals/` – final visualizations used in the analysis  
+- `syracuse_violations_analysis.R` – R script containing data cleaning, transformation, and analysis  
+- `README.md` – project overview, methodology, and key insights  
