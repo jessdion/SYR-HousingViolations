@@ -19,7 +19,7 @@ This project analyzes housing code violations in Syracuse to identify high-risk 
 - Data cleaning and preprocessing in R  
 - Exploratory data analysis (EDA)  
 - Creation of initial visualizations using ggplot2  
-- Refinement and design of final visuals in Adobe Illustrator  
+- Refinement and design of final visuals in Adobe Illustrator and Canva  
 
 ## Key Insights
 - Certain areas experience higher concentrations of violations  
